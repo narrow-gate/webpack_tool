@@ -3,3 +3,6 @@
 
 # demo1
 学习如何使用入口／出口／html-webpack-plugin
+
+# demo3
+手写一个插件
